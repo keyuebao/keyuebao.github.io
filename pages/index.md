@@ -1,7 +1,6 @@
 ---
 title: "About me"
 layout: page
-path: "/about"
 ---
 
 Hi, welcome.

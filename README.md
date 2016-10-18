@@ -1,4 +1,4 @@
-# Keyue Bao
+# keyuebao.me
 
 Personal blog of Keyue Bao
 

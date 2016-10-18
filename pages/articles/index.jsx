@@ -6,8 +6,8 @@ import DocumentTitle from 'react-document-title'
 import { prefixLink } from 'gatsby-helpers'
 import access from 'safe-access'
 import { config } from 'config'
-import SitePost from '../components/SitePost'
-import SiteSidebar from '../components/SiteSidebar'
+import SitePost from '../../components/SitePost'
+import SiteSidebar from '../../components/SiteSidebar'
 
 class SiteIndex extends React.Component {
     render() {

@@ -1,0 +1,12 @@
+siteTitle = "Keyue Bao"
+siteDescr = "I enjoy building things, solving interesting challenges and baking."
+siteAuthor = "Keyue Bao"
+
+siteLinkedinUrl = "http://www.linkedin.com/in/keyuebao"
+siteGithubUrl = "https://github.com/keyuebao"
+siteEmailUrl = "mailto:keyue.bao@gmail.com"
+siteResumeUrl = "/Bao_Keyue_Resume_2016.pdf"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"

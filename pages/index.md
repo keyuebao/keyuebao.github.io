@@ -9,4 +9,4 @@ My name is Keyue, currently a student studying computer science at University of
 
 I am interested in internships and research. I enjoy working at a fast paced environment, collaborating with smart engineers and bouncing ideas (sometimes ping pong balls) off each other. In my spare time, I like fencing, playing boardgames and making desserts. I hope to leave this world a better place than I entered it, in whatever small and insignificant ways I can.
 
-If you have some opportunities you think I'd be interested in, or even recipes you'd to share, please contact me through the mail icon on the left. Looking forward to hearing from you!
+If you have some opportunities you think I'd be interested in, or even recipes you'd like to share, please contact me through the mail icon on the left. Looking forward to hearing from you!

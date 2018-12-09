@@ -1,5 +1,5 @@
 siteTitle = "Keyue Bao"
-siteDescr = "I enjoy building things, solving interesting challenges and baking."
+siteDescr = ""
 siteAuthor = "Keyue Bao"
 
 siteLinkedinUrl = "http://www.linkedin.com/in/keyuebao"
@@ -9,4 +9,4 @@ siteResumeUrl = "/Bao_Keyue_Resume_2017.pdf"
 
 googleAnalyticsId = ""
 
-linkPrefix = "/gatsby-starter-lumen"
+linkPrefix = ""

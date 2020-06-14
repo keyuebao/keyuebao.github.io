@@ -1,0 +1,1 @@
+{"pageProps":{"post":{"title":"Testing Sidekiq workers with shared RSpec example","date":"2020-06-13","slug":"testing-sidekiq-jobs-with-rspec","content":"<p>Sidekiq has many configurable options for a worker, and it is easy to get overwhelmed when first getting started. I know I did.</p>\n<p>(to be continued)</p>\n"}},"__N_SSG":true}

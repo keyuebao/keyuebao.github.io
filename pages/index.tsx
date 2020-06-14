@@ -2,10 +2,8 @@ import React from "react";
 import Container from "../components/container";
 import Intro from "../components/intro";
 import Layout from "../components/layout";
-import { getAllPosts } from "../lib/api";
 import Head from "next/head";
 import { NAME } from "../lib/constants";
-import Post from "../types/post";
 import AboutSection from "../components/about-section";
 
 type Props = {

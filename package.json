@@ -4,12 +4,12 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "export": "next export",
+    "export": "next build && next export",
     "format": "npm run prettier -- \"{src,posts,public}/**/*.{js,jsx,ts,tsx,json,css,md,yml,yaml}\"",
     "start": "next start",
     "typecheck": "tsc",
     "prettier": "prettier --write",
-    "deploy": "npm run build && npm run export && gh-pages -d out"
+    "deploy": "npm run export && gh-pages -d out"
   },
   "author": {
     "name": "Keyue Bao",

@@ -1,6 +1,11 @@
-import React from 'react'
-import Container from './container'
-import { FaEnvelope, FaFileAlt, FaGithubAlt, FaLinkedinIn } from 'react-icons/fa';
+import React from "react";
+import Container from "./container";
+import {
+  FaEnvelope,
+  FaFileAlt,
+  FaGithubAlt,
+  FaLinkedinIn,
+} from "react-icons/fa";
 
 const Footer: React.FC = () => {
   return (
@@ -27,7 +32,7 @@ const Footer: React.FC = () => {
         </div>
       </Container>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

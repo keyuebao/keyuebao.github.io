@@ -1,14 +1,14 @@
-import React from 'react'
-import Avatar from './avatar'
-import DateFormater from './date-formater'
-import CoverImage from './cover-image'
-import PostTitle from './post-title'
+import React from "react";
+import Avatar from "./avatar";
+import DateFormater from "./date-formater";
+import CoverImage from "./cover-image";
+import PostTitle from "./post-title";
 
 type Props = {
-  title: string
-  coverImage: string
-  date: string
-}
+  title: string;
+  coverImage: string;
+  date: string;
+};
 
 const PostHeader: React.FC<Props> = ({ title, coverImage, date }) => {
   return (
@@ -23,7 +23,7 @@ const PostHeader: React.FC<Props> = ({ title, coverImage, date }) => {
         </div>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default PostHeader
+export default PostHeader;

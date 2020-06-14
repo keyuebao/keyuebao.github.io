@@ -1,5 +1,5 @@
-import React from 'react'
-import { NAME } from '../lib/constants'
+import React from "react";
+import { NAME } from "../lib/constants";
 
 const Intro: React.FC = () => {
   return (
@@ -8,7 +8,7 @@ const Intro: React.FC = () => {
         {NAME}
       </h1>
     </section>
-  )
-}
+  );
+};
 
-export default Intro
+export default Intro;

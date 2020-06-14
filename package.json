@@ -9,7 +9,7 @@
     "start": "next start",
     "typecheck": "tsc",
     "prettier": "prettier --write",
-    "deploy": "npm run export && gh-pages -d out"
+    "deploy": "npm run export && gh-pages --dotfiles -d out"
   },
   "author": {
     "name": "Keyue Bao",
